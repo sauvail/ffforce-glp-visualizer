@@ -16,6 +16,13 @@ It allows interactive visualization of athlete performance, including search by 
 - Radio buttons to select **sex** and **weight class**  
 - Built with `matplotlib` and `scipy`
 
+## Data
+
+This tool uses competition results from OpenIPF, an open dataset of international and national powerlifting results.
+
+Download the latest dataset here:
+<https://openpowerlifting.gitlab.io/opl-csv/>
+
 ## Requirements
 
 - Python 3.10+  
