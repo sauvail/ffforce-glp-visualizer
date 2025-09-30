@@ -26,4 +26,7 @@ It allows interactive visualization of athlete performance, including search by 
 Install dependencies with:
 
 ```bash
-pip install -r requirements.txt
+pip install matplotlib
+pip install scipy
+pip install pandas
+pip install numpy
